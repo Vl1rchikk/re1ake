@@ -1,4 +1,4 @@
-from customtkinter import *
+from customtkinter import * #неререрреререререрререререререр отпрака блблбл
 from socket import *
 import threading
 
